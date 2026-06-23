@@ -1,0 +1,118 @@
+[
+  {
+    "type": "image",
+    "filename": "OIP.webp",
+    "ingredients": [
+      "bread",
+      "egg",
+      "butter"
+    ],
+    "entities": [
+      {
+        "name": "bread",
+        "quantity": null,
+        "category": "grain"
+      },
+      {
+        "name": "egg",
+        "quantity": null,
+        "category": "protein"
+      },
+      {
+        "name": "butter",
+        "quantity": null,
+        "category": "dairy"
+      }
+    ],
+    "recipe": {
+      "title": "Buttered Egg Toast",
+      "steps": [
+        "Toast the bread and spread butter while warm.",
+        "Fry or scramble the eggs to your preference.",
+        "Place the eggs on top of the buttered toast.",
+        "Season with salt and pepper, and serve."
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein_g": 16,
+        "carbs_g": 24,
+        "fat_g": 22
+      },
+      "shelf_life_advice": [
+        "Bread: best used within 5 days.",
+        "Egg: best used within 21 days.",
+        "Butter: best used within 30 days."
+      ],
+      "storage_advice": [
+        "Bread: Store at room temperature in a bread box or paper bag; refrigeration speeds staling. Freeze for longer storage.",
+        "Egg: Keep refrigerated in their original carton, pointed end down, away from the fridge door to limit temperature swings.",
+        "Butter: Keep refrigerated in its wrapper or a covered dish; can be frozen for up to 6 months."
+      ],
+      "sustainability_tips": [
+        "Bread: Stale bread can be turned into croutons, breadcrumbs, or bread pudding instead of being wasted.",
+        "Egg: Eggs that are slightly past their best can still be tested with a float test in water before discarding.",
+        "Butter: Buy only what you need; butter has a high greenhouse gas footprint per kilogram relative to plant fats."
+      ],
+      "use_first": [
+        "bread"
+      ],
+      "source": "offline_heuristic",
+      "rag_context": {
+        "matched_count": 3,
+        "unmatched": []
+      }
+    },
+    "summary": "Buttered Egg Toast makes good use of your available ingredients and comes in at around 360 calories per serving. Use bread first, as they spoil soonest.",
+    "source": "offline_heuristic",
+    "id": "515394ed-e1b5-453f-ace6-d9356243210e",
+    "timestamp": "2026-06-24T01:21:22.549918"
+  },
+  {
+    "type": "manual",
+    "ingredients": [
+      "tomato cheese garlic"
+    ],
+    "entities": [
+      {
+        "name": "tomato cheese garlic",
+        "quantity": null,
+        "category": "vegetable"
+      }
+    ],
+    "recipe": {
+      "title": "Garlic Tomato Pasta",
+      "steps": [
+        "Boil pasta until al dente; reserve a splash of pasta water.",
+        "Saut\u00e9 minced garlic in olive oil until fragrant.",
+        "Add chopped tomatoes and simmer into a light sauce.",
+        "Toss in the cooked pasta with reserved pasta water to loosen the sauce.",
+        "Season with salt, pepper, and herbs to taste."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein_g": 13,
+        "carbs_g": 82,
+        "fat_g": 9
+      },
+      "shelf_life_advice": [
+        "Tomato: best used within 7 days."
+      ],
+      "storage_advice": [
+        "Tomato: Store at room temperature away from sunlight until ripe, then refrigerate. Refrigeration before ripening dulls flavor."
+      ],
+      "sustainability_tips": [
+        "Tomato: Tomatoes have a high water footprint; use overripe ones in sauces or soups rather than discarding."
+      ],
+      "use_first": [],
+      "source": "offline_heuristic",
+      "rag_context": {
+        "matched_count": 1,
+        "unmatched": []
+      }
+    },
+    "summary": "Garlic Tomato Pasta makes good use of your available ingredients and comes in at around 450 calories per serving.",
+    "source": "offline_heuristic",
+    "id": "c5db90dc-b494-4e88-9aef-5f14c43e8cff",
+    "timestamp": "2026-06-24T01:05:01.286523"
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "ingredients": [
+    {
+      "name": "tomato",
+      "category": "vegetable",
+      "shelf_life_days": 7,
+      "storage": "Store at room temperature away from sunlight until ripe, then refrigerate. Refrigeration before ripening dulls flavor.",
+      "sustainability_tip": "Tomatoes have a high water footprint; use overripe ones in sauces or soups rather than discarding.",
+      "use_first_priority": "medium"
+    },
+    {
+      "name": "onion",
+      "category": "vegetable",
+      "shelf_life_days": 30,
+      "storage": "Store in a cool, dry, well-ventilated place away from potatoes, which release moisture that speeds spoilage.",
+      "sustainability_tip": "Onion skins and ends can be saved and frozen to make vegetable stock instead of being thrown away.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "cheese",
+      "category": "dairy",
+      "shelf_life_days": 14,
+      "storage": "Wrap in wax paper or parchment, then loosely in plastic, and store in the warmest part of the fridge (e.g. a drawer).",
+      "sustainability_tip": "Dairy has a notably high carbon footprint; freeze hard cheeses you won't use in time rather than discarding.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "bread",
+      "category": "grain",
+      "shelf_life_days": 5,
+      "storage": "Store at room temperature in a bread box or paper bag; refrigeration speeds staling. Freeze for longer storage.",
+      "sustainability_tip": "Stale bread can be turned into croutons, breadcrumbs, or bread pudding instead of being wasted.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "egg",
+      "category": "protein",
+      "shelf_life_days": 21,
+      "storage": "Keep refrigerated in their original carton, pointed end down, away from the fridge door to limit temperature swings.",
+      "sustainability_tip": "Eggs that are slightly past their best can still be tested with a float test in water before discarding.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "butter",
+      "category": "dairy",
+      "shelf_life_days": 30,
+      "storage": "Keep refrigerated in its wrapper or a covered dish; can be frozen for up to 6 months.",
+      "sustainability_tip": "Buy only what you need; butter has a high greenhouse gas footprint per kilogram relative to plant fats.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "rice",
+      "category": "grain",
+      "shelf_life_days": 365,
+      "storage": "Store uncooked rice in an airtight container in a cool, dry pantry. Cooked rice should be refrigerated and used within 3-4 days.",
+      "sustainability_tip": "Cooked leftover rice freezes well in portioned bags, reducing the chance of it going to waste.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "chicken",
+      "category": "protein",
+      "shelf_life_days": 2,
+      "storage": "Keep raw chicken refrigerated below 4°C (40°F) and use within 1-2 days, or freeze immediately if not using soon.",
+      "sustainability_tip": "Use bones and trimmings to make stock rather than discarding them, reducing both waste and the need for new purchases.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "spices",
+      "category": "pantry",
+      "shelf_life_days": 730,
+      "storage": "Store in airtight containers away from heat, light, and moisture to preserve potency.",
+      "sustainability_tip": "Buy spices in small quantities or shared bulk amounts to avoid them losing potency before use.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "vegetables",
+      "category": "vegetable",
+      "shelf_life_days": 7,
+      "storage": "Most fresh vegetables keep best refrigerated in a crisper drawer with adjusted humidity; leafy greens prefer high humidity, root vegetables lower.",
+      "sustainability_tip": "Vegetable scraps (peels, stems, ends) can be frozen and used to make stock.",
+      "use_first_priority": "medium"
+    },
+    {
+      "name": "pasta",
+      "category": "grain",
+      "shelf_life_days": 730,
+      "storage": "Store dry pasta in a sealed container in a cool, dry pantry; cooked pasta should be refrigerated and used within 3-5 days.",
+      "sustainability_tip": "Pasta water can be saved and used to thin sauces, reducing food and water waste.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "milk",
+      "category": "dairy",
+      "shelf_life_days": 7,
+      "storage": "Keep refrigerated at the back of the fridge, not the door, where temperatures fluctuate the most.",
+      "sustainability_tip": "Milk nearing its date can be used in baking, sauces, or frozen in ice cube trays for small future portions.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "potato",
+      "category": "vegetable",
+      "shelf_life_days": 60,
+      "storage": "Store in a cool, dark, well-ventilated place; avoid the fridge, which can affect taste and texture.",
+      "sustainability_tip": "Potatoes are a high-yield, low-water-footprint crop; use sprouted eyes by cutting them out rather than discarding the whole potato.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "carrot",
+      "category": "vegetable",
+      "shelf_life_days": 21,
+      "storage": "Remove leafy tops, then refrigerate in a perforated bag in the crisper drawer.",
+      "sustainability_tip": "Carrot tops are edible and can be used in pesto or stock instead of being discarded.",
+      "use_first_priority": "medium"
+    },
+    {
+      "name": "spinach",
+      "category": "vegetable",
+      "shelf_life_days": 5,
+      "storage": "Store unwashed in a perforated bag in the crisper drawer; wash only right before use to avoid speeding decay.",
+      "sustainability_tip": "Wilting spinach is still good cooked into soups, curries, or smoothies rather than thrown away.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "yogurt",
+      "category": "dairy",
+      "shelf_life_days": 14,
+      "storage": "Keep refrigerated and tightly sealed; avoid leaving at room temperature for extended periods.",
+      "sustainability_tip": "Use yogurt nearing its date in marinades, baking, or smoothies to avoid waste.",
+      "use_first_priority": "medium"
+    },
+    {
+      "name": "lemon",
+      "category": "fruit",
+      "shelf_life_days": 21,
+      "storage": "Store in the refrigerator crisper drawer for longest life, or at room temperature for up to a week.",
+      "sustainability_tip": "Zest and juice can be frozen separately before the fruit spoils, extending its usable life.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "garlic",
+      "category": "vegetable",
+      "shelf_life_days": 90,
+      "storage": "Store whole bulbs in a cool, dry, well-ventilated place away from direct sunlight.",
+      "sustainability_tip": "Sprouted garlic cloves are still usable; just remove the green sprout before cooking.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "mushroom",
+      "category": "vegetable",
+      "shelf_life_days": 7,
+      "storage": "Store in a paper bag (not plastic) in the refrigerator to prevent moisture buildup and sliminess.",
+      "sustainability_tip": "Mushroom stems, often discarded, can be used in stocks and broths for added flavor.",
+      "use_first_priority": "medium"
+    },
+    {
+      "name": "bell pepper",
+      "category": "vegetable",
+      "shelf_life_days": 10,
+      "storage": "Refrigerate in a perforated bag in the crisper drawer; keep dry to avoid mold.",
+      "sustainability_tip": "Pepper seeds and cores can be composted rather than going to landfill with general waste.",
+      "use_first_priority": "medium"
+    },
+    {
+      "name": "fish",
+      "category": "protein",
+      "shelf_life_days": 2,
+      "storage": "Keep refrigerated at the coldest part of the fridge, ideally on ice, and use within 1-2 days or freeze immediately.",
+      "sustainability_tip": "Choose sustainably sourced fish where possible, and use trimmings in stock to reduce waste.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "beans",
+      "category": "protein",
+      "shelf_life_days": 730,
+      "storage": "Store dried beans in an airtight container in a cool, dry pantry; cooked beans should be refrigerated and used within 5 days.",
+      "sustainability_tip": "Legumes have one of the lowest carbon and water footprints among protein sources, making them an eco-friendly substitute for meat.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "apple",
+      "category": "fruit",
+      "shelf_life_days": 30,
+      "storage": "Refrigerate in a perforated bag away from other produce; apples release ethylene gas that speeds ripening of nearby fruit.",
+      "sustainability_tip": "Bruised or soft apples are ideal for baking, sauces, or smoothies rather than being discarded.",
+      "use_first_priority": "low"
+    },
+    {
+      "name": "banana",
+      "category": "fruit",
+      "shelf_life_days": 5,
+      "storage": "Store at room temperature; refrigerate once ripe to slow further ripening (skin will darken but flesh stays fine).",
+      "sustainability_tip": "Overripe bananas are ideal for baking (banana bread) or can be frozen for smoothies instead of being thrown out.",
+      "use_first_priority": "high"
+    },
+    {
+      "name": "yeast",
+      "category": "pantry",
+      "shelf_life_days": 730,
+      "storage": "Store unopened in a cool, dry pantry; once opened, refrigerate or freeze in an airtight container.",
+      "sustainability_tip": "Buying yeast in bulk and freezing portions reduces packaging waste over time.",
+      "use_first_priority": "low"
+    }
+  ],
+  "recipe_templates": [
+    {
+      "id": "cheesy_toast",
+      "title": "Cheesy Veg Toast",
+      "trigger_ingredients": ["cheese", "bread"],
+      "cuisine": "fusion",
+      "diet": ["vegetarian"],
+      "steps": [
+        "Toast the bread slices until lightly golden.",
+        "Top with sliced onion and tomato.",
+        "Add a generous layer of cheese on top.",
+        "Grill or microwave until the cheese melts.",
+        "Serve hot."
+      ],
+      "estimated_nutrition": {"calories": 320, "protein_g": 14, "carbs_g": 28, "fat_g": 17}
+    },
+    {
+      "id": "veg_rice_bowl",
+      "title": "Simple Veg Rice Bowl",
+      "trigger_ingredients": ["rice", "vegetables"],
+      "cuisine": "asian-inspired",
+      "diet": ["vegetarian", "vegan"],
+      "steps": [
+        "Cook rice according to package instructions.",
+        "Sauté available vegetables with a little oil until tender.",
+        "Season with available spices.",
+        "Combine rice and vegetables in a bowl.",
+        "Serve hot, garnished with herbs if available."
+      ],
+      "estimated_nutrition": {"calories": 410, "protein_g": 9, "carbs_g": 78, "fat_g": 7}
+    },
+    {
+      "id": "garlic_pasta",
+      "title": "Garlic Tomato Pasta",
+      "trigger_ingredients": ["pasta", "tomato", "garlic"],
+      "cuisine": "italian",
+      "diet": ["vegetarian", "vegan"],
+      "steps": [
+        "Boil pasta until al dente; reserve a splash of pasta water.",
+        "Sauté minced garlic in olive oil until fragrant.",
+        "Add chopped tomatoes and simmer into a light sauce.",
+        "Toss in the cooked pasta with reserved pasta water to loosen the sauce.",
+        "Season with salt, pepper, and herbs to taste."
+      ],
+      "estimated_nutrition": {"calories": 450, "protein_g": 13, "carbs_g": 82, "fat_g": 9}
+    },
+    {
+      "id": "chicken_stir_fry",
+      "title": "Quick Chicken Vegetable Stir-Fry",
+      "trigger_ingredients": ["chicken", "vegetables", "spices"],
+      "cuisine": "asian-inspired",
+      "diet": ["non-vegetarian"],
+      "steps": [
+        "Cut chicken into bite-sized pieces and season lightly.",
+        "Heat oil in a wok or large pan over high heat.",
+        "Stir-fry chicken until cooked through, then set aside.",
+        "Stir-fry vegetables until just tender-crisp.",
+        "Combine chicken and vegetables, season with available spices, and serve hot."
+      ],
+      "estimated_nutrition": {"calories": 380, "protein_g": 34, "carbs_g": 18, "fat_g": 16}
+    },
+    {
+      "id": "veg_salad",
+      "title": "Basic Fresh Veg Salad",
+      "trigger_ingredients": ["vegetables"],
+      "cuisine": "general",
+      "diet": ["vegetarian", "vegan"],
+      "steps": [
+        "Wash and chop all available vegetables.",
+        "Combine in a large bowl.",
+        "Add a squeeze of lemon, salt, and a drizzle of oil.",
+        "Toss well and serve fresh."
+      ],
+      "estimated_nutrition": {"calories": 150, "protein_g": 4, "carbs_g": 20, "fat_g": 6}
+    },
+    {
+      "id": "egg_butter_toast",
+      "title": "Buttered Egg Toast",
+      "trigger_ingredients": ["egg", "bread", "butter"],
+      "cuisine": "general",
+      "diet": ["vegetarian"],
+      "steps": [
+        "Toast the bread and spread butter while warm.",
+        "Fry or scramble the eggs to your preference.",
+        "Place the eggs on top of the buttered toast.",
+        "Season with salt and pepper, and serve."
+      ],
+      "estimated_nutrition": {"calories": 360, "protein_g": 16, "carbs_g": 24, "fat_g": 22}
+    },
+    {
+      "id": "bean_bowl",
+      "title": "Hearty Bean and Rice Bowl",
+      "trigger_ingredients": ["beans", "rice", "spices"],
+      "cuisine": "general",
+      "diet": ["vegetarian", "vegan"],
+      "steps": [
+        "Cook rice according to package instructions.",
+        "Heat cooked or canned beans with available spices.",
+        "Combine beans over a bed of rice.",
+        "Top with any fresh vegetables on hand and serve."
+      ],
+      "estimated_nutrition": {"calories": 430, "protein_g": 17, "carbs_g": 75, "fat_g": 5}
+    }
+  ]
+}
