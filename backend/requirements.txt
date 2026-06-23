@@ -4,3 +4,5 @@ python-multipart
 pillow
 requests
 ibm-watsonx-ai
+python-dotenv
+google-generativeai
