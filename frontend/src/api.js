@@ -1,7 +1,7 @@
 // Centralized backend API client for SmartPlate AI.
 // Change BASE_URL if your backend runs somewhere other than localhost:8000.
 
-const BASE_URL = "http://127.0.0.1:8000";
+const BASE_URL = "https://smartplateai-a7wc.onrender.com";
 
 async function request(path, options = {}) {
   const res = await fetch(`${BASE_URL}${path}`, {
